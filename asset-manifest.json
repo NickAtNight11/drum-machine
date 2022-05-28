@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.1c31fd3a.css",
+    "main.js": "/drum-machine/static/js/main.a4bbd9a4.js",
+    "static/js/787.c419f7a1.chunk.js": "/drum-machine/static/js/787.c419f7a1.chunk.js",
+    "static/media/Clave.wav": "/drum-machine/static/media/Clave.496ff722c3c57c48e77a.wav",
+    "static/media/Closed Hi-Hat.wav": "/drum-machine/static/media/Closed Hi-Hat.dae266094cfa0f67be9d.wav",
+    "static/media/Cymbal.wav": "/drum-machine/static/media/Cymbal.52fc1c388eab950f74a3.wav",
+    "static/media/Hand Clap.wav": "/drum-machine/static/media/Hand Clap.122ee0d3177fdfc2fb58.wav",
+    "static/media/High Tom.wav": "/drum-machine/static/media/High Tom.5da536e4c272182970a7.wav",
+    "static/media/Kick.wav": "/drum-machine/static/media/Kick.70168a90bdb0edd60e61.wav",
+    "static/media/Low Tom.wav": "/drum-machine/static/media/Low Tom.06c349c911d3e9d558b3.wav",
+    "static/media/Open Hi-Hat.wav": "/drum-machine/static/media/Open Hi-Hat.d276f8bec5c43d8c3b83.wav",
+    "static/media/Snare.wav": "/drum-machine/static/media/Snare.48375fea3b009572ff57.wav",
+    "index.html": "/drum-machine/index.html",
+    "main.1c31fd3a.css.map": "/drum-machine/static/css/main.1c31fd3a.css.map",
+    "main.a4bbd9a4.js.map": "/drum-machine/static/js/main.a4bbd9a4.js.map",
+    "787.c419f7a1.chunk.js.map": "/drum-machine/static/js/787.c419f7a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c31fd3a.css",
+    "static/js/main.a4bbd9a4.js"
+  ]
+}
